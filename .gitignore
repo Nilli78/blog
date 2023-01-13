@@ -1,0 +1,9 @@
+#database
+db.sqlite3
+
+#migration 
+blog/migrations/
+
+#virtual env
+
+venv/
